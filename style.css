@@ -1,0 +1,22 @@
+h2 {
+  color:darkgray;
+  font-weight: 200;
+}
+
+ul, ol{
+  background-color:bisque;
+  font-family: "Bebas", sans-serif;
+  background-size: auto;
+  word-spacing: 3px; 
+  min-height: 120px;
+  margin: 60px;
+  text-align: left;
+} 
+
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+
+h4{
+  background-color:crimson;
+}
