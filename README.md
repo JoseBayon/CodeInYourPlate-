@@ -1,9 +1,9 @@
-<!--
+
 #Code in your plate!
 
---Brief: Write a recipe in MarkUp language .md 
+<!--Brief: Write a recipe in MarkUp language .md 
 Decide what information to include, so that someone else can prepare the dish you chose.
-Make thoughtful decisions about how to structure your recipe.--
+Make thoughtful decisions about how to structure your recipe.-->
 
 ***Cachopo, Cordon Bleu, Italian Milanessa***
 
@@ -27,6 +27,3 @@ The *Cachopo* is a typical dish in all the north of Spain, and it's one of those
 
 
 ![image](http://3.bp.blogspot.com/-egDjrL4i070/UNzvDlVecTI/AAAAAAAAAFM/J75Ly2EO-1Q/s1600/cachopo1.jpg) 
-
-
--->
