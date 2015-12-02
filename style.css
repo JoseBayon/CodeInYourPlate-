@@ -1,0 +1,51 @@
+h2 {
+  color:darkgray;
+  font-weight: 200;
+}
+
+ol{
+  background-color:bisque;
+  font-family: "Bebas", sans-serif;
+  background-size: auto;
+  word-spacing: 3px; 
+  margin: 60px;
+  text-align: left;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  max-width: 45%
+} 
+
+ul{
+  background-color:bisque;
+  font-family: "Bebas", sans-serif;
+  background-size: auto;
+  word-spacing: 3px; 
+  margin: 60px;
+  text-align: left;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  max-width: 45%
+} 
+
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+
+h4{
+  background-color:crimson;
+}
+
+div {
+  display: inline;
+  max-height: 100px;
+  max-width: 100px;
+    }
+
+img{
+  max-width: 100%
+}
+
+
+div img {
+  max-height: 250px;
+  display: inline;
